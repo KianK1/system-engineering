@@ -1,0 +1,1 @@
+sudo chgrp school /root/system-engineering/shell-permissions/hello
