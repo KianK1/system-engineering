@@ -1,0 +1,1 @@
+find /root/system-engineering/shell-permissions -type d -exec chmod 711 {} \;
